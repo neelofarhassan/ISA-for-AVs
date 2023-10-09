@@ -1,0 +1,5483 @@
+{
+  "test_id": "C:\\Users\\nnee0002\\Documents\\SDC-Scissors\\test-ambiegen2\\test.0034.json",
+  "is_valid": true,
+  "test_outcome": "FAIL",
+  "predicted_test_outcome": null,
+  "test_duration": 10.259735822677612,
+  "road_points": [
+    [
+      100.0,
+      100.0
+    ],
+    [
+      100.017,
+      98.999
+    ],
+    [
+      100.029,
+      97.997
+    ],
+    [
+      100.037,
+      96.996
+    ],
+    [
+      100.041,
+      95.994
+    ],
+    [
+      100.041,
+      94.992
+    ],
+    [
+      100.038,
+      93.991
+    ],
+    [
+      100.033,
+      92.989
+    ],
+    [
+      100.024,
+      91.988
+    ],
+    [
+      100.013,
+      90.986
+    ],
+    [
+      100.0,
+      89.985
+    ],
+    [
+      99.985,
+      88.983
+    ],
+    [
+      99.968,
+      87.982
+    ],
+    [
+      99.951,
+      86.98
+    ],
+    [
+      99.932,
+      85.979
+    ],
+    [
+      99.913,
+      84.978
+    ],
+    [
+      99.894,
+      83.976
+    ],
+    [
+      99.874,
+      82.975
+    ],
+    [
+      99.855,
+      81.973
+    ],
+    [
+      99.837,
+      80.972
+    ],
+    [
+      99.819,
+      79.971
+    ],
+    [
+      99.803,
+      78.969
+    ],
+    [
+      99.788,
+      77.968
+    ],
+    [
+      99.775,
+      76.966
+    ],
+    [
+      99.764,
+      75.965
+    ],
+    [
+      99.756,
+      74.963
+    ],
+    [
+      99.75,
+      73.962
+    ],
+    [
+      99.747,
+      72.96
+    ],
+    [
+      99.747,
+      71.958
+    ],
+    [
+      99.751,
+      70.957
+    ],
+    [
+      99.76,
+      69.955
+    ],
+    [
+      99.772,
+      68.954
+    ],
+    [
+      99.789,
+      67.952
+    ],
+    [
+      99.81,
+      66.951
+    ],
+    [
+      99.837,
+      65.95
+    ],
+    [
+      99.87,
+      64.949
+    ],
+    [
+      99.908,
+      63.948
+    ],
+    [
+      99.952,
+      62.947
+    ],
+    [
+      100.003,
+      61.947
+    ],
+    [
+      100.06,
+      60.947
+    ],
+    [
+      100.122,
+      59.948
+    ],
+    [
+      100.188,
+      58.948
+    ],
+    [
+      100.256,
+      57.949
+    ],
+    [
+      100.325,
+      56.95
+    ],
+    [
+      100.393,
+      55.95
+    ],
+    [
+      100.458,
+      54.951
+    ],
+    [
+      100.52,
+      53.951
+    ],
+    [
+      100.576,
+      52.951
+    ],
+    [
+      100.625,
+      51.951
+    ],
+    [
+      100.666,
+      50.95
+    ],
+    [
+      100.697,
+      49.949
+    ],
+    [
+      100.717,
+      48.948
+    ],
+    [
+      100.724,
+      47.946
+    ],
+    [
+      100.717,
+      46.945
+    ],
+    [
+      100.694,
+      45.943
+    ],
+    [
+      100.655,
+      44.942
+    ],
+    [
+      100.597,
+      43.943
+    ],
+    [
+      100.52,
+      42.944
+    ],
+    [
+      100.422,
+      41.947
+    ],
+    [
+      100.303,
+      40.953
+    ],
+    [
+      100.161,
+      39.961
+    ],
+    [
+      99.995,
+      38.973
+    ],
+    [
+      99.806,
+      37.99
+    ],
+    [
+      99.592,
+      37.012
+    ],
+    [
+      99.353,
+      36.039
+    ],
+    [
+      99.087,
+      35.073
+    ],
+    [
+      98.796,
+      34.115
+    ],
+    [
+      98.476,
+      33.166
+    ],
+    [
+      98.128,
+      32.227
+    ],
+    [
+      97.749,
+      31.299
+    ],
+    [
+      97.34,
+      30.385
+    ],
+    [
+      96.898,
+      29.486
+    ],
+    [
+      96.422,
+      28.605
+    ],
+    [
+      95.912,
+      27.743
+    ],
+    [
+      95.364,
+      26.905
+    ],
+    [
+      94.78,
+      26.091
+    ],
+    [
+      94.156,
+      25.308
+    ],
+    [
+      93.493,
+      24.557
+    ],
+    [
+      92.791,
+      23.843
+    ],
+    [
+      92.049,
+      23.17
+    ],
+    [
+      91.268,
+      22.543
+    ],
+    [
+      90.45,
+      21.965
+    ],
+    [
+      89.596,
+      21.441
+    ],
+    [
+      88.712,
+      20.971
+    ],
+    [
+      87.801,
+      20.554
+    ],
+    [
+      86.868,
+      20.19
+    ],
+    [
+      85.916,
+      19.878
+    ],
+    [
+      84.95,
+      19.615
+    ],
+    [
+      83.971,
+      19.402
+    ],
+    [
+      82.983,
+      19.236
+    ],
+    [
+      81.989,
+      19.119
+    ],
+    [
+      80.99,
+      19.048
+    ],
+    [
+      79.988,
+      19.024
+    ],
+    [
+      78.987,
+      19.047
+    ],
+    [
+      77.988,
+      19.117
+    ],
+    [
+      76.993,
+      19.234
+    ],
+    [
+      76.005,
+      19.399
+    ],
+    [
+      75.027,
+      19.612
+    ],
+    [
+      74.06,
+      19.876
+    ],
+    [
+      73.109,
+      20.19
+    ],
+    [
+      72.177,
+      20.556
+    ],
+    [
+      71.268,
+      20.976
+    ],
+    [
+      70.385,
+      21.45
+    ],
+    [
+      69.535,
+      21.978
+    ],
+    [
+      68.72,
+      22.561
+    ],
+    [
+      67.943,
+      23.193
+    ],
+    [
+      67.205,
+      23.871
+    ],
+    [
+      66.508,
+      24.59
+    ],
+    [
+      65.852,
+      25.347
+    ],
+    [
+      65.237,
+      26.137
+    ],
+    [
+      64.662,
+      26.957
+    ],
+    [
+      64.127,
+      27.804
+    ],
+    [
+      63.631,
+      28.674
+    ],
+    [
+      63.173,
+      29.565
+    ],
+    [
+      62.751,
+      30.473
+    ],
+    [
+      62.366,
+      31.398
+    ],
+    [
+      62.016,
+      32.336
+    ],
+    [
+      61.699,
+      33.286
+    ],
+    [
+      61.417,
+      34.247
+    ],
+    [
+      61.167,
+      35.217
+    ],
+    [
+      60.949,
+      36.195
+    ],
+    [
+      60.763,
+      37.179
+    ],
+    [
+      60.608,
+      38.168
+    ],
+    [
+      60.485,
+      39.162
+    ],
+    [
+      60.394,
+      40.16
+    ],
+    [
+      60.334,
+      41.16
+    ],
+    [
+      60.306,
+      42.161
+    ],
+    [
+      60.31,
+      43.162
+    ],
+    [
+      60.338,
+      44.164
+    ],
+    [
+      60.375,
+      45.164
+    ],
+    [
+      60.409,
+      46.165
+    ],
+    [
+      60.424,
+      47.167
+    ],
+    [
+      60.404,
+      48.168
+    ],
+    [
+      60.332,
+      49.167
+    ],
+    [
+      60.195,
+      50.159
+    ],
+    [
+      59.99,
+      51.14
+    ],
+    [
+      59.722,
+      52.105
+    ],
+    [
+      59.393,
+      53.051
+    ],
+    [
+      59.009,
+      53.976
+    ],
+    [
+      58.573,
+      54.877
+    ],
+    [
+      58.088,
+      55.754
+    ],
+    [
+      57.557,
+      56.603
+    ],
+    [
+      56.985,
+      57.425
+    ],
+    [
+      56.373,
+      58.218
+    ],
+    [
+      55.724,
+      58.981
+    ],
+    [
+      55.04,
+      59.713
+    ],
+    [
+      54.324,
+      60.413
+    ],
+    [
+      53.577,
+      61.08
+    ],
+    [
+      52.801,
+      61.713
+    ],
+    [
+      51.997,
+      62.311
+    ],
+    [
+      51.168,
+      62.873
+    ],
+    [
+      50.315,
+      63.397
+    ],
+    [
+      49.438,
+      63.882
+    ],
+    [
+      48.541,
+      64.326
+    ],
+    [
+      47.623,
+      64.728
+    ],
+    [
+      46.688,
+      65.086
+    ],
+    [
+      45.736,
+      65.397
+    ],
+    [
+      44.769,
+      65.661
+    ],
+    [
+      43.791,
+      65.875
+    ],
+    [
+      42.803,
+      66.037
+    ],
+    [
+      41.807,
+      66.145
+    ],
+    [
+      40.807,
+      66.198
+    ],
+    [
+      39.805,
+      66.194
+    ],
+    [
+      38.805,
+      66.132
+    ],
+    [
+      37.811,
+      66.011
+    ],
+    [
+      36.826,
+      65.831
+    ],
+    [
+      35.853,
+      65.592
+    ],
+    [
+      34.897,
+      65.295
+    ],
+    [
+      33.959,
+      64.941
+    ],
+    [
+      33.045,
+      64.533
+    ],
+    [
+      32.155,
+      64.072
+    ]
+  ],
+  "interpolated_road_points": [
+    [
+      99.99999999999999,
+      99.99999999999999,
+      -28,
+      10
+    ],
+    [
+      100.03909372811341,
+      96.59487135819951,
+      -28,
+      10
+    ],
+    [
+      100.03429310366336,
+      93.18950464327816,
+      -28,
+      10
+    ],
+    [
+      99.99717185258426,
+      89.78433199565514,
+      -28,
+      10
+    ],
+    [
+      99.93975225978168,
+      86.37943639824478,
+      -28,
+      10
+    ],
+    [
+      99.87399386619857,
+      82.97468945685176,
+      -28,
+      10
+    ],
+    [
+      99.81238329560955,
+      79.56986582488399,
+      -28,
+      10
+    ],
+    [
+      99.76596632340376,
+      76.16480417268471,
+      -28,
+      10
+    ],
+    [
+      99.7467508420735,
+      72.7594863635729,
+      -28,
+      10
+    ],
+    [
+      99.76671402910567,
+      69.35418919934284,
+      -28,
+      10
+    ],
+    [
+      99.8370129337982,
+      65.9495712190871,
+      -28,
+      10
+    ],
+    [
+      99.97159163206003,
+      62.5468993354371,
+      -28,
+      10
+    ],
+    [
+      100.17460887304597,
+      59.14761027227432,
+      -28,
+      10
+    ],
+    [
+      100.40624397243396,
+      55.7501161840172,
+      -28,
+      10
+    ],
+    [
+      100.60629619922486,
+      52.3506582893221,
+      -28,
+      10
+    ],
+    [
+      100.71701053791588,
+      48.94723184028253,
+      -28,
+      10
+    ],
+    [
+      100.68048044562859,
+      45.54238373943235,
+      -28,
+      10
+    ],
+    [
+      100.44324320310527,
+      42.145863349573936,
+      -28,
+      10
+    ],
+    [
+      99.95906610413887,
+      38.77590847633941,
+      -28,
+      10
+    ],
+    [
+      99.19635148181955,
+      35.45809726441892,
+      -28,
+      10
+    ],
+    [
+      98.12765763413279,
+      32.226119902070046,
+      -28,
+      10
+    ],
+    [
+      96.71150389091096,
+      29.131220391436297,
+      -28,
+      10
+    ],
+    [
+      94.89960701906628,
+      26.251123429250534,
+      -28,
+      10
+    ],
+    [
+      92.64514672487216,
+      23.704344712843994,
+      -28,
+      10
+    ],
+    [
+      89.94114276962091,
+      21.64378721766237,
+      -28,
+      10
+    ],
+    [
+      86.86746436285149,
+      20.189808323408347,
+      -28,
+      10
+    ],
+    [
+      83.57643717435116,
+      19.32982941550539,
+      -28,
+      10
+    ],
+    [
+      80.188088997775,
+      19.02502061273119,
+      -28,
+      10
+    ],
+    [
+      76.79438032230928,
+      19.263218490705206,
+      -28,
+      10
+    ],
+    [
+      73.48715866885962,
+      20.058374570852425,
+      -28,
+      10
+    ],
+    [
+      70.38482665340311,
+      21.450100094896364,
+      -28,
+      10
+    ],
+    [
+      67.64266301691084,
+      23.459241698408416,
+      -28,
+      10
+    ],
+    [
+      65.35646531930095,
+      25.976940577719635,
+      -28,
+      10
+    ],
+    [
+      63.536178951301025,
+      28.851118285402833,
+      -28,
+      10
+    ],
+    [
+      62.15184375924861,
+      31.959844075715875,
+      -28,
+      10
+    ],
+    [
+      61.166823700235256,
+      35.21773360459744,
+      -28,
+      10
+    ],
+    [
+      60.55478318826753,
+      38.56611062624648,
+      -28,
+      10
+    ],
+    [
+      60.3089569774614,
+      41.96112246788508,
+      -28,
+      10
+    ],
+    [
+      60.38253925707569,
+      45.36526621839214,
+      -28,
+      10
+    ],
+    [
+      60.367961626112006,
+      48.76888047173299,
+      -28,
+      10
+    ],
+    [
+      59.72183253430759,
+      52.10553508150339,
+      -28,
+      10
+    ],
+    [
+      58.38423911726567,
+      55.23184666460692,
+      -28,
+      10
+    ],
+    [
+      56.497887942431504,
+      58.062497503190414,
+      -28,
+      10
+    ],
+    [
+      54.1764129914535,
+      60.54963608865881,
+      -28,
+      10
+    ],
+    [
+      51.502002670088636,
+      62.652973244991394,
+      -28,
+      10
+    ],
+    [
+      48.53981517363347,
+      64.32655238381723,
+      -28,
+      10
+    ],
+    [
+      45.349944674821565,
+      65.50859794852379,
+      -28,
+      10
+    ],
+    [
+      42.00564330057203,
+      66.12785328691986,
+      -28,
+      10
+    ],
+    [
+      38.605228629631014,
+      66.11249181898899,
+      -28,
+      10
+    ],
+    [
+      35.27642767459527,
+      65.42042051772152,
+      -28,
+      10
+    ],
+    [
+      32.155,
+      64.072,
+      -28,
+      10
+    ]
+  ],
+  "simulation_data": [
+    {
+      "time": 0.28438854217529297,
+      "position": [
+        97.52812957763672,
+        97.4466323852539,
+        -27.79119110107422
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9999473882651089,
+          "throttle_input": 0,
+          "gear": 1,
+          "wheelspeed": 3.03284180995636,
+          "brake": 0,
+          "throttle": 0,
+          "parkingbrake": 0,
+          "driveshaft": 172.93694852917517,
+          "reverse": 0,
+          "airspeed": 0.07410738450439394,
+          "smoothShiftLogicAV": -0.013304609812132658,
+          "abs": 0,
+          "steering": -5.792557208508522,
+          "steering_input": 0.011509065112510576,
+          "rpmspin": 17.231433625735917,
+          "airflowspeed": 0.07410738450439394,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.796852823418597,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 0.17034439991444467,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 2.9717893169389535,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 2624.026367903707,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 9.368910491466522,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0,
+          "esc_active": false,
+          "exhaust_flow": 0.6503681335298812,
+          "fog_lights": 0,
+          "fuel_volume": 49.99736941325544,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.42265563321595,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 1982.7532620741508,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.09015803813257
+        }
+      }
+    },
+    {
+      "time": 0.7930729389190674,
+      "position": [
+        97.52639770507812,
+        97.31486511230469,
+        -27.781522750854492
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9999309388129346,
+          "throttle_input": 0,
+          "gear": 1,
+          "wheelspeed": 1.9835934127562054,
+          "brake": 0,
+          "throttle": 0,
+          "parkingbrake": 0,
+          "driveshaft": 231.82817224307334,
+          "reverse": 0,
+          "airspeed": 0.4252343045280539,
+          "smoothShiftLogicAV": 29.012618969785013,
+          "abs": 0,
+          "steering": -6.1634120438316655,
+          "steering_input": 0.01213542420572935,
+          "rpmspin": 38.86048425712869,
+          "airflowspeed": 0.4252343045280539,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.792900404013174,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 0.5908428580959704,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 2.0081099117595738,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 1595.879017180082,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 6.126013159751892,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0,
+          "engine_throttle": 0,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.99654694064673,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.48193082463261,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 2632.940376011366,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.2330586006622
+        }
+      }
+    },
+    {
+      "time": 0.9146687984466553,
+      "position": [
+        97.52239990234375,
+        97.00208282470703,
+        -27.776954650878906
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9999287461056852,
+          "throttle_input": 0.7034429476412538,
+          "gear": 1,
+          "wheelspeed": 1.640598761808568,
+          "brake": 0,
+          "throttle": 0.7034429476412538,
+          "parkingbrake": 0,
+          "driveshaft": 83.19986103902271,
+          "reverse": 0,
+          "airspeed": 1.0859455197415635,
+          "smoothShiftLogicAV": 23.815013782908743,
+          "abs": 0,
+          "steering": -7.316119856624338,
+          "steering_input": 0.01397311994020504,
+          "rpmspin": 239.27681545339158,
+          "airflowspeed": 1.0859455197415635,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.782875740835358,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 0.9269304201042112,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0.6121048922556079,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 1.7747637656734294,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 1409.0567366184084,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 5.06765341758728,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 0.38789510774439206,
+          "engine_load": 1,
+          "engine_throttle": 0.7034429476412538,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.99643730528426,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.50891918978616,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 917.2271856078221,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.25529769932146
+        }
+      }
+    },
+    {
+      "time": 1.0475032329559326,
+      "position": [
+        97.51445007324219,
+        96.55714416503906,
+        -27.776639938354492
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9999094986190848,
+          "throttle_input": 0,
+          "gear": 1,
+          "wheelspeed": 2.6192655025409186,
+          "brake": 0,
+          "throttle": 0,
+          "parkingbrake": 0,
+          "driveshaft": 90.182942985086,
+          "reverse": 0,
+          "airspeed": 1.723132367375158,
+          "smoothShiftLogicAV": 28.034210513164606,
+          "abs": 0,
+          "steering": -6.665931316699166,
+          "steering_input": 0.013092119926701604,
+          "rpmspin": 226.22683286024053,
+          "airflowspeed": 1.723132367375158,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.780034882328,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 1.452000284944214,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0.16210148178586092,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 2.6486282000853056,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.908659753967516,
+              "brakeCoreTemperature": 15.015215071135506,
+              "brakeThermalEfficiency": 0.913273886553438
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.097992609156202,
+              "brakeCoreTemperature": 15.00221354907218,
+              "brakeThermalEfficiency": 0.9119818441449197
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 1140.6713385666274,
+          "isTCBrakeActive": true,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 8.096342086791992,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 0.8378985182141391,
+          "engine_load": 0,
+          "engine_throttle": 0,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.995474930954245,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.5520510246452,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 1816.7179154821627,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.30829361571756
+        }
+      }
+    },
+    {
+      "time": 1.6008071899414062,
+      "position": [
+        97.50653076171875,
+        96.00347900390625,
+        -27.779918670654297
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9999032368289736,
+          "throttle_input": 0.9687191912221157,
+          "gear": 1,
+          "wheelspeed": 4.596969994126455,
+          "brake": 0,
+          "throttle": 0.9687191912221157,
+          "parkingbrake": 0,
+          "driveshaft": 50.60379991316869,
+          "reverse": 0,
+          "airspeed": 2.313635717826401,
+          "smoothShiftLogicAV": 27.94280160730181,
+          "abs": 0,
+          "steering": -6.480048726170959,
+          "steering_input": 0.012323055440742121,
+          "rpmspin": 96.56207182422038,
+          "airflowspeed": 2.313635717826401,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77882544453983,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 2.006675239155382,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0.09409369098843412,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 2.9350213974578505,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.62178364776262,
+              "brakeCoreTemperature": 15.062025033191489,
+              "brakeThermalEfficiency": 0.9128185475472888
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.052625743613005,
+              "brakeCoreTemperature": 15.006870646415333,
+              "brakeThermalEfficiency": 0.9119090502250116
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 2002.649764021497,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 14.226714372634888,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 0.9059063090115659,
+          "engine_load": 1,
+          "engine_throttle": 0.9687191912221157,
+          "esc_active": false,
+          "exhaust_flow": 0.8703681439793205,
+          "fog_lights": 0,
+          "fuel_volume": 49.995161841448684,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.57761996385806,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 1269.4986786540846,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.35876615343255
+        }
+      }
+    },
+    {
+      "time": 1.7256436347961426,
+      "position": [
+        97.49361419677734,
+        95.2741928100586,
+        -27.778385162353516
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9998831451360141,
+          "throttle_input": 0.957086322374344,
+          "gear": 1,
+          "wheelspeed": 3.90585227919743,
+          "brake": 0,
+          "throttle": 0.957086322374344,
+          "parkingbrake": 0,
+          "driveshaft": 217.87147671212267,
+          "reverse": 0,
+          "airspeed": 3.0859290270730857,
+          "smoothShiftLogicAV": 36.65464299372826,
+          "abs": 0,
+          "steering": -5.944382450104609,
+          "steering_input": 0.0113040769769061,
+          "rpmspin": 124.75045832387642,
+          "airflowspeed": 3.0859290270730857,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77891099449074,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 2.8170719485947155,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0.6076184030930858,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 4.204245903247243,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.611453086366009,
+              "brakeCoreTemperature": 15.097397243402007,
+              "brakeThermalEfficiency": 0.9128021121185896
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.130590776596296,
+              "brakeCoreTemperature": 15.013127045005055,
+              "brakeThermalEfficiency": 0.912034117861704
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 1630.4264086363696,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 12.084765434265137,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 0.39238159690691415,
+          "engine_load": 0.9682513034218202,
+          "engine_throttle": 0.957086322374344,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.994157256800705,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.62941296585659,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 2041.4731260849348,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.517786538679
+        }
+      }
+    },
+    {
+      "time": 2.321695566177368,
+      "position": [
+        97.47511291503906,
+        94.35398864746094,
+        -27.777328491210938
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9998591597976634,
+          "throttle_input": 0.8541267459121241,
+          "gear": 1,
+          "wheelspeed": 5.63770994026553,
+          "brake": 0,
+          "throttle": 0.8541267459121241,
+          "parkingbrake": 0,
+          "driveshaft": 75.13664485172137,
+          "reverse": 0,
+          "airspeed": 3.945147548013306,
+          "smoothShiftLogicAV": 43.0045206866147,
+          "abs": 0,
+          "steering": -5.0795607952395985,
+          "steering_input": 0.009676955097039213,
+          "rpmspin": 165.44481321420204,
+          "airflowspeed": 3.945147548013306,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77849541014028,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 3.765663693802412,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 5.415634822210655,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.477407357657961,
+              "brakeCoreTemperature": 15.124744247786925,
+              "brakeThermalEfficiency": 0.9125886091428992
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.078579032088982,
+              "brakeCoreTemperature": 15.018921746171845,
+              "brakeThermalEfficiency": 0.9119507002228904
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 2189.296812983568,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 17.440095901489258,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.8541267459121241,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.992957989883166,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.67670065392437,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 2179.2965469700925,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.64791618103222
+        }
+      }
+    },
+    {
+      "time": 2.445910692214966,
+      "position": [
+        97.4493179321289,
+        93.17658233642578,
+        -27.775253295898438
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.99982741746422,
+          "throttle_input": 0.9582903936781864,
+          "gear": 1,
+          "wheelspeed": 6.764153720116269,
+          "brake": 0,
+          "throttle": 0.9582903936781864,
+          "parkingbrake": 0,
+          "driveshaft": 54.1239251052951,
+          "reverse": 0,
+          "airspeed": 5.052683531247305,
+          "smoothShiftLogicAV": 53.208187446989484,
+          "abs": 0,
+          "steering": -4.5717125681324555,
+          "steering_input": 0.00870817810655358,
+          "rpmspin": 265.00965317759244,
+          "airflowspeed": 5.052683531247305,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.777248126853813,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 4.953740943430788,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 6.6378340139442455,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.353584298917886,
+              "brakeCoreTemperature": 15.142883181696195,
+              "brakeThermalEfficiency": 0.9123909877054055
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.044041765808798,
+              "brakeCoreTemperature": 15.021655894136083,
+              "brakeThermalEfficiency": 0.9118952708649328
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 2579.7025816483506,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 20.921464443206787,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.9582903936781864,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.991370873211,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.73406984561159,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 2438.877686058446,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 80.89695476181164
+        }
+      }
+    },
+    {
+      "time": 2.578911304473877,
+      "position": [
+        97.41566467285156,
+        91.76099395751953,
+        -27.773096084594727
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9997882792067362,
+          "throttle_input": 0.9623645526992806,
+          "gear": 1,
+          "wheelspeed": 7.953726012716036,
+          "brake": 0,
+          "throttle": 0.9623645526992806,
+          "parkingbrake": 0,
+          "driveshaft": 174.0230818885733,
+          "reverse": 0,
+          "airspeed": 6.212703544210908,
+          "smoothShiftLogicAV": 63.57356945082627,
+          "abs": 0,
+          "steering": -3.42278965018927,
+          "steering_input": 0.00513092040035521,
+          "rpmspin": 96.17588188111063,
+          "airflowspeed": 6.212703544210908,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77548236596245,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 6.381400040684727,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 7.842752488080206,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.272658826128472,
+              "brakeCoreTemperature": 15.153499749207437,
+              "brakeThermalEfficiency": 0.912261622524261
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.020789979665096,
+              "brakeCoreTemperature": 15.022417644585872,
+              "brakeThermalEfficiency": 0.9118579367867317
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 3064.924714756116,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 24.58845329284668,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.9623645526992806,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.98941396033681,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.80403940159947,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 2940.39994270917,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.18808146854391
+        }
+      }
+    },
+    {
+      "time": 2.7089099884033203,
+      "position": [
+        97.3755111694336,
+        90.10771942138672,
+        -27.772201538085938
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9997418291564651,
+          "throttle_input": 0.9653162627983343,
+          "gear": 1,
+          "wheelspeed": 9.104196363435236,
+          "brake": 0,
+          "throttle": 0.9653162627983343,
+          "parkingbrake": 0,
+          "driveshaft": 80.14296199389248,
+          "reverse": 0,
+          "airspeed": 7.391912022221483,
+          "smoothShiftLogicAV": 75.49745819834045,
+          "abs": 0,
+          "steering": 0.9485483267091778,
+          "steering_input": -0.004726616228745213,
+          "rpmspin": 26.5352130942112,
+          "airflowspeed": 7.391912022221483,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77375526813826,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 8.058824852186865,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 9.042201157733766,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.219405992605278,
+              "brakeCoreTemperature": 15.15926395882755,
+              "brakeThermalEfficiency": 0.9121764041549585
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 15.00482040809268,
+              "brakeCoreTemperature": 15.021909136669137,
+              "brakeThermalEfficiency": 0.9118322874451552
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 3564.4545080958187,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 28.133060455322266,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.9653162627983343,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.987091457823254,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.8891576636545,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 3439.973402883414,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.5301929018862
+        }
+      }
+    },
+    {
+      "time": 3.1878273487091064,
+      "position": [
+        97.35502624511719,
+        89.19212341308594,
+        -27.772167205810547
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9997158991989203,
+          "throttle_input": 0.9663995581670926,
+          "gear": 1,
+          "wheelspeed": 9.788350698809907,
+          "brake": 0,
+          "throttle": 0.9663995581670926,
+          "parkingbrake": 0,
+          "driveshaft": 265.28186609675356,
+          "reverse": 0,
+          "airspeed": 7.981926561348214,
+          "smoothShiftLogicAV": 81.43200139476201,
+          "abs": 0,
+          "steering": 3.8793731752102727,
+          "steering_input": -0.010525541543321538,
+          "rpmspin": 29.17769088736327,
+          "airflowspeed": 7.981926561348214,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77318753298544,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 8.985357546978845,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 9.640018639067131,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.199933768342635,
+              "brakeCoreTemperature": 15.160891628403807,
+              "brakeThermalEfficiency": 0.9121452257113474
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.021327155899971,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 3811.7247301123766,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 30.243290901184082,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.9663995581670926,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.98579495994602,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 80.93756803223678,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 3688.3949396913436,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.71784383340238
+        }
+      }
+    },
+    {
+      "time": 3.3138086795806885,
+      "position": [
+        97.3179931640625,
+        87.18501281738281,
+        -27.772480010986328
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9996591246873755,
+          "throttle_input": 0.9676352880914266,
+          "gear": 1,
+          "wheelspeed": 10.919194795045659,
+          "brake": 0,
+          "throttle": 0.9676352880914266,
+          "parkingbrake": 0,
+          "driveshaft": 28.537591673858394,
+          "reverse": 0,
+          "airspeed": 9.155857008749418,
+          "smoothShiftLogicAV": 94.0959166730847,
+          "abs": 0,
+          "steering": 9.75312273398685,
+          "steering_input": -0.021957407340317692,
+          "rpmspin": 107.92492776549773,
+          "airflowspeed": 9.155857008749418,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77261804502939,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 11.026168694967978,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 10.817252360670782,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.170904020551399,
+              "brakeCoreTemperature": 15.162405493932507,
+              "brakeThermalEfficiency": 0.9120987262670113
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.020021501452252,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4286.948190225995,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 33.74262523651123,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.9676352880914266,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.98295623436877,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.04600606113965,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4174.437805520319,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.1213135260966
+        }
+      }
+    },
+    {
+      "time": 3.4478001594543457,
+      "position": [
+        97.29796600341797,
+        84.95050048828125,
+        -27.773548126220703
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9995981911433446,
+          "throttle_input": 0.6955145181858694,
+          "gear": 1,
+          "wheelspeed": 11.942800045207917,
+          "brake": 0,
+          "throttle": 0.6955145181858694,
+          "parkingbrake": 0,
+          "driveshaft": 278.87680020349194,
+          "reverse": 0,
+          "airspeed": 10.310124499838938,
+          "smoothShiftLogicAV": 105.89643849491546,
+          "abs": 0,
+          "steering": 15.615660091357796,
+          "steering_input": -0.033683305201771846,
+          "rpmspin": 277.8505321450557,
+          "airflowspeed": 10.310124499838938,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.772772298021383,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 13.289859991521537,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 11.939861186591534,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.151119081896168,
+              "brakeCoreTemperature": 15.16229858127737,
+              "brakeThermalEfficiency": 0.912067022863496
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.018795066489032,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4717.082108426637,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 36.89136028289795,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 1,
+          "engine_throttle": 0.6955145181858694,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97990955716723,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.168915868001,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4611.557642051036,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.54208092986458
+        }
+      }
+    },
+    {
+      "time": 3.9341800212860107,
+      "position": [
+        97.29953002929688,
+        83.75509643554688,
+        -27.774654388427734
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9995673177072635,
+          "throttle_input": 0.4482102386721591,
+          "gear": 1,
+          "wheelspeed": 12.32171509591034,
+          "brake": 0,
+          "throttle": 0.4482102386721591,
+          "parkingbrake": 0,
+          "driveshaft": 263.9358760840436,
+          "reverse": 0,
+          "airspeed": 10.865729092433542,
+          "smoothShiftLogicAV": 111.43146472900328,
+          "abs": 0,
+          "steering": 18.7633402867361,
+          "steering_input": -0.03973240880567685,
+          "rpmspin": 33.77333223734473,
+          "airflowspeed": 10.865729092433542,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77314696360478,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 14.496344081284164,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.422743746595362,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.143615227866036,
+              "brakeCoreTemperature": 15.16182633843043,
+              "brakeThermalEfficiency": 0.9120549961011544
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.018210097332464,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4856.751212116517,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.06052207946777,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.9240805061872788,
+          "engine_throttle": 0.4482102386721591,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.978365885363175,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.23526039068669,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4801.317911519813,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.75065886406335
+        }
+      }
+    },
+    {
+      "time": 4.069604396820068,
+      "position": [
+        97.35491180419922,
+        80.64413452148438,
+        -27.782535552978516
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9995279822276232,
+          "throttle_input": 0.15557684943179204,
+          "gear": 1,
+          "wheelspeed": 12.635425230132121,
+          "brake": 0,
+          "throttle": 0.15557684943179204,
+          "parkingbrake": 0,
+          "driveshaft": 260.40042108595804,
+          "reverse": 0,
+          "airspeed": 11.927014361205888,
+          "smoothShiftLogicAV": 120.68331250773105,
+          "abs": 0,
+          "steering": 23.035950841342633,
+          "steering_input": -0.044252970810875224,
+          "rpmspin": 178.936407295898,
+          "airflowspeed": 11.927014361205888,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77643089749788,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 17.615024915426492,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.8170602714083,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.129544302753308,
+              "brakeCoreTemperature": 15.159829654930443,
+              "brakeThermalEfficiency": 0.9120324401750315
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.016825913014276,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4929.559370842033,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.02174377441406,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.37709979189596576,
+          "engine_throttle": 0.15557684943179204,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.976399111381156,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.40381758328462,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4927.020967521271,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.98055911624589
+        }
+      }
+    },
+    {
+      "time": 4.197557687759399,
+      "position": [
+        97.45594787597656,
+        78.1207504272461,
+        -27.786752700805664
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9995151470025303,
+          "throttle_input": 0.12110244262358937,
+          "gear": 1,
+          "wheelspeed": 12.653853615582518,
+          "brake": 0,
+          "throttle": 0.12110244262358937,
+          "parkingbrake": 0,
+          "driveshaft": 264.05780608879485,
+          "reverse": 0,
+          "airspeed": 12.339875071363604,
+          "smoothShiftLogicAV": 123.80208195964356,
+          "abs": 0,
+          "steering": 18.754731931203697,
+          "steering_input": -0.0327437168483271,
+          "rpmspin": 86.77934347400594,
+          "airflowspeed": 12.339875071363604,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.781454122958884,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 20.14412058690068,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.830085355423254,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.121546609828558,
+              "brakeCoreTemperature": 15.157670670532907,
+              "brakeThermalEfficiency": 0.9120196175164486
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.015794663273812,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4954.779812429324,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.071781158447266,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2743665232124611,
+          "engine_throttle": 0.12110244262358937,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.975757350126514,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.534507464715,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4948.632191715337,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.81345630296032
+        }
+      }
+    },
+    {
+      "time": 4.785613059997559,
+      "position": [
+        97.59441375732422,
+        75.59461975097656,
+        -27.785892486572266
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.999503999712131,
+          "throttle_input": 0.11838106496267836,
+          "gear": 1,
+          "wheelspeed": 12.69255751951528,
+          "brake": 0,
+          "throttle": 0.11838106496267836,
+          "parkingbrake": 0,
+          "driveshaft": 268.1255881503294,
+          "reverse": 0,
+          "airspeed": 12.520593861029848,
+          "smoothShiftLogicAV": 125.08660494067132,
+          "abs": 0,
+          "steering": 10.463308147435814,
+          "steering_input": -0.016710089992004035,
+          "rpmspin": 358.1213897511767,
+          "airflowspeed": 12.520593861029848,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.784484747069623,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 22.67627491546033,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.884346943995865,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.115341510535362,
+              "brakeCoreTemperature": 15.155206038040454,
+              "brakeThermalEfficiency": 0.9120096678029455
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.01482664664875,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4963.819246380051,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.17787551879883,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2570952787954041,
+          "engine_throttle": 0.11838106496267836,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97519998560655,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.66401180935414,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4960.241147707599,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.62645167830351
+        }
+      }
+    },
+    {
+      "time": 4.91400408744812,
+      "position": [
+        97.75293731689453,
+        73.06851959228516,
+        -27.784523010253906
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994929778675374,
+          "throttle_input": 0.1159572908773415,
+          "gear": 1,
+          "wheelspeed": 12.736789433464983,
+          "brake": 0,
+          "throttle": 0.1159572908773415,
+          "parkingbrake": 0,
+          "driveshaft": 276.5784750502509,
+          "reverse": 0,
+          "airspeed": 12.597889774286418,
+          "smoothShiftLogicAV": 125.82875928100869,
+          "abs": 0,
+          "steering": 3.598283893018776,
+          "steering_input": -0.004405282152213054,
+          "rpmspin": 271.1747402836075,
+          "airflowspeed": 12.597889774286418,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78490529297589,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 25.219414779672444,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.910842043803,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.110289573313743,
+              "brakeCoreTemperature": 15.152546443540517,
+              "brakeThermalEfficiency": 0.9120015664376633
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.01391784804257,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4966.4260065343005,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.30554389953613,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2523773342362132,
+          "engine_throttle": 0.1159572908773415,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97464889337687,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.79269050841029,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4966.0276432230485,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.47080033967468
+        }
+      }
+    },
+    {
+      "time": 5.526771306991577,
+      "position": [
+        97.91747283935547,
+        70.542724609375,
+        -27.78387451171875
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.999482139583089,
+          "throttle_input": 0.11548721523123043,
+          "gear": 1,
+          "wheelspeed": 12.74938593882429,
+          "brake": 0,
+          "throttle": 0.11548721523123043,
+          "parkingbrake": 0,
+          "driveshaft": 288.12968060386925,
+          "reverse": 0,
+          "airspeed": 12.630999200742053,
+          "smoothShiftLogicAV": 126.30139827168071,
+          "abs": 0,
+          "steering": -1.0526991040727,
+          "steering_input": 0.003712489912353822,
+          "rpmspin": 184.9742117965875,
+          "airflowspeed": 12.630999200742053,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78448724096191,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 27.768316334379918,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.90755946712576,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.105980504795312,
+              "brakeCoreTemperature": 15.149763105675863,
+              "brakeThermalEfficiency": 0.9119946558397434
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.013064641985709,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4971.143760154396,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.340200424194336,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2527839226824989,
+          "engine_throttle": 0.11548721523123043,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97410697915445,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 81.92042912434904,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4971.26514986134,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.34527827294419
+        }
+      }
+    },
+    {
+      "time": 5.639779090881348,
+      "position": [
+        98.07769775390625,
+        68.01638793945312,
+        -27.783540725708008
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994713241751971,
+          "throttle_input": 0.11312943838441351,
+          "gear": 1,
+          "wheelspeed": 12.74126460334194,
+          "brake": 0,
+          "throttle": 0.11312943838441351,
+          "parkingbrake": 0,
+          "driveshaft": 301.1438643964065,
+          "reverse": 0,
+          "airspeed": 12.647394008158614,
+          "smoothShiftLogicAV": 126.58082469496698,
+          "abs": 0,
+          "steering": -3.544066616759874,
+          "steering_input": 0.007542050203216081,
+          "rpmspin": 99.25863694311579,
+          "airflowspeed": 12.647394008158614,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.783997922140184,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 30.317393972638783,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.898806422086645,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.10215045128968,
+              "brakeCoreTemperature": 15.146901766712388,
+              "brakeThermalEfficiency": 0.9119885130613143
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.012263707201807,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4972.8273468246225,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.327149391174316,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2481885366881946,
+          "engine_throttle": 0.11312943838441351,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.973566208759856,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.04723119624971,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4972.593691715579,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.24541351529177
+        }
+      }
+    },
+    {
+      "time": 5.775930643081665,
+      "position": [
+        98.2290267944336,
+        65.48956298828125,
+        -27.78347396850586
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994605757243116,
+          "throttle_input": 0.11335774681593686,
+          "gear": 1,
+          "wheelspeed": 12.731387860580453,
+          "brake": 0,
+          "throttle": 0.11335774681593686,
+          "parkingbrake": 0,
+          "driveshaft": 315.7411469448498,
+          "reverse": 0,
+          "airspeed": 12.654061179796944,
+          "smoothShiftLogicAV": 126.778819901479,
+          "abs": 0,
+          "steering": -4.1289147094930865,
+          "steering_input": 0.00796144871775506,
+          "rpmspin": 13.85444266989731,
+          "airflowspeed": 12.654061179796944,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.783710079548268,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 32.86497423808466,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.883695918281012,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.09862803502481,
+              "brakeCoreTemperature": 15.143991438250676,
+              "brakeThermalEfficiency": 0.9119828633561311
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.01151184763696,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4974.1784909199105,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.297000885009766,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.24701803005011672,
+          "engine_throttle": 0.11335774681593686,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97302878621558,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.17309008856508,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4974.244582519321,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.16754293793068
+        }
+      }
+    },
+    {
+      "time": 5.9089672565460205,
+      "position": [
+        98.37041473388672,
+        62.961891174316406,
+        -27.783525466918945
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994498545878595,
+          "throttle_input": 0.1125068746708895,
+          "gear": 1,
+          "wheelspeed": 12.72423279252163,
+          "brake": 0,
+          "throttle": 0.1125068746708895,
+          "parkingbrake": 0,
+          "driveshaft": 331.62841018482663,
+          "reverse": 0,
+          "airspeed": 12.658124334794145,
+          "smoothShiftLogicAV": 126.92839896637065,
+          "abs": 0,
+          "steering": -4.700223342147349,
+          "steering_input": 0.010267561500866445,
+          "rpmspin": 288.4635057761966,
+          "airflowspeed": 12.658124334794145,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.783606064720665,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 35.41073577071062,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.878339804910757,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.095305543187163,
+              "brakeCoreTemperature": 15.141051108878099,
+              "brakeThermalEfficiency": 0.9119775340287952
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.010806065961152,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4973.935773482583,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.269761085510254,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2452696559194404,
+          "engine_throttle": 0.1125068746708895,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.972492729392975,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.29797921269602,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4972.907135220646,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.10730407537208
+        }
+      }
+    },
+    {
+      "time": 6.364063739776611,
+      "position": [
+        98.4038314819336,
+        62.32991409301758,
+        -27.783491134643555
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994471873906068,
+          "throttle_input": 0.1125543809496156,
+          "gear": 1,
+          "wheelspeed": 12.71965108601529,
+          "brake": 0,
+          "throttle": 0.1125543809496156,
+          "parkingbrake": 0,
+          "driveshaft": 335.7196096573287,
+          "reverse": 0,
+          "airspeed": 12.658498483643422,
+          "smoothShiftLogicAV": 126.95869295885804,
+          "abs": 0,
+          "steering": -5.236456365442037,
+          "steering_input": 0.011584409938227092,
+          "rpmspin": 177.16029815619663,
+          "airflowspeed": 12.658498483643422,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.783589945160323,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 36.046947419816995,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.874011614517824,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.094497549322575,
+              "brakeCoreTemperature": 15.140312913102223,
+              "brakeThermalEfficiency": 0.9119762379522958
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.010636484513297,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4973.40649684017,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.25413799285889,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.24539232413084347,
+          "engine_throttle": 0.1125543809496156,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97235936953034,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.32905274264748,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4973.935773482583,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.09456025010851
+        }
+      }
+    },
+    {
+      "time": 6.485155820846558,
+      "position": [
+        98.52667999267578,
+        59.80214309692383,
+        -27.783153533935547
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994365072786994,
+          "throttle_input": 0.11279411261603116,
+          "gear": 1,
+          "wheelspeed": 12.70818958120616,
+          "brake": 0,
+          "throttle": 0.11279411261603116,
+          "parkingbrake": 0,
+          "driveshaft": 352.22457756583697,
+          "reverse": 0,
+          "airspeed": 12.656903818866166,
+          "smoothShiftLogicAV": 127.04431399199794,
+          "abs": 0,
+          "steering": -8.50081748725366,
+          "steering_input": 0.01891099278866887,
+          "rpmspin": 91.81334131577734,
+          "airflowspeed": 12.656903818866166,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.783458182138254,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 38.590504419306825,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.861074915915054,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.091333010144933,
+              "brakeCoreTemperature": 15.137352342496348,
+              "brakeThermalEfficiency": 0.9119711616601303
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.009984339868575,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4973.9254758547195,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.212520599365234,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2458330430506496,
+          "engine_throttle": 0.11279411261603116,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97182536393497,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.452742585648,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4974.155417402348,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.05181243916417
+        }
+      }
+    },
+    {
+      "time": 6.616139888763428,
+      "position": [
+        98.62430572509766,
+        57.2745246887207,
+        -27.7825984954834
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994258055816928,
+          "throttle_input": 0.11296411935454684,
+          "gear": 1,
+          "wheelspeed": 12.696795208840879,
+          "brake": 0,
+          "throttle": 0.11296411935454684,
+          "parkingbrake": 0,
+          "driveshaft": 7.460337901897045,
+          "reverse": 0,
+          "airspeed": 12.652862692513246,
+          "smoothShiftLogicAV": 127.04176887335557,
+          "abs": 0,
+          "steering": -14.297244985773611,
+          "steering_input": 0.03175913359235635,
+          "rpmspin": 6.624686726747711,
+          "airflowspeed": 12.652862692513246,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78313908138918,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 41.13147958824324,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.841115163581447,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.088250434248355,
+              "brakeCoreTemperature": 15.134384810169152,
+              "brakeThermalEfficiency": 0.9119662166038842
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.009372159424982,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4974.133715590075,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.16218376159668,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.24624618424791977,
+          "engine_throttle": 0.11296411935454684,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.97129027908464,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.57552803170815,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4974.707574363015,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.02086564943274
+        }
+      }
+    },
+    {
+      "time": 7.0984625816345215,
+      "position": [
+        98.65912628173828,
+        56.0109748840332,
+        -27.782188415527344
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994204489181338,
+          "throttle_input": 0.11295375778652482,
+          "gear": 1,
+          "wheelspeed": 12.683688434777942,
+          "brake": 0,
+          "throttle": 0.11295375778652482,
+          "parkingbrake": 0,
+          "driveshaft": 13.60799483068142,
+          "reverse": 0,
+          "airspeed": 12.649817825723126,
+          "smoothShiftLogicAV": 126.96397060731061,
+          "abs": 0,
+          "steering": -18.180602749124983,
+          "steering_input": 0.03966336123740107,
+          "rpmspin": 144.02257557548955,
+          "airflowspeed": 12.649817825723126,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78290517908126,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 42.40091103474511,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.830081236136905,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.086730245926852,
+              "brakeCoreTemperature": 15.132900050276433,
+              "brakeThermalEfficiency": 0.9119637778354759
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.00908029343618,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4974.275778754912,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.112637519836426,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2463273460896964,
+          "engine_throttle": 0.11295375778652482,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.971022445906684,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.63657958619358,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4973.8239131486425,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.00919098340846
+        }
+      }
+    },
+    {
+      "time": 7.2416112422943115,
+      "position": [
+        98.68744659423828,
+        52.85417556762695,
+        -27.7812557220459
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9994070584786215,
+          "throttle_input": 0.11259452721491679,
+          "gear": 1,
+          "wheelspeed": 12.683887664186118,
+          "brake": 0,
+          "throttle": 0.11259452721491679,
+          "parkingbrake": 0,
+          "driveshaft": 23.695664283586304,
+          "reverse": 0,
+          "airspeed": 12.633133224322407,
+          "smoothShiftLogicAV": 126.58767709555018,
+          "abs": 0,
+          "steering": -29.141859422383238,
+          "steering_input": 0.06185742229195919,
+          "rpmspin": 307.686149123418,
+          "airflowspeed": 12.633133224322407,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78212803924736,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 45.570077385063364,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.843448375011576,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.082970796089088,
+              "brakeCoreTemperature": 15.129186841803039,
+              "brakeThermalEfficiency": 0.911957746472237
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.008389798085824,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4974.393233434804,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.113558769226074,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2459173735673748,
+          "engine_throttle": 0.11259452721491679,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.970352923931074,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.78825207821531,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4974.644300084456,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.98918397508018
+        }
+      }
+    },
+    {
+      "time": 7.376586437225342,
+      "position": [
+        98.62857818603516,
+        50.33327102661133,
+        -27.78050422668457
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993963914570178,
+          "throttle_input": 0.11109980805815382,
+          "gear": 1,
+          "wheelspeed": 12.785385606834224,
+          "brake": 0,
+          "throttle": 0.11109980805815382,
+          "parkingbrake": 0,
+          "driveshaft": 34.21377338380587,
+          "reverse": 0,
+          "airspeed": 12.618174352691247,
+          "smoothShiftLogicAV": 126.53004852944424,
+          "abs": 0,
+          "steering": -38.77308938160065,
+          "steering_input": 0.08059729011272825,
+          "rpmspin": 222.4630485968994,
+          "airflowspeed": 12.618174352691247,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.781406052956775,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 48.11597616990141,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.929430545936299,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.079992226503183,
+              "brakeCoreTemperature": 15.12621683219296,
+              "brakeThermalEfficiency": 0.9119529676382907
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.007875350303905,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4972.232074356567,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.42995643615723,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2436256070952907,
+          "engine_throttle": 0.11109980805815382,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96981957285089,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 82.90858224472211,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4973.254148197413,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.98087242174142
+        }
+      }
+    },
+    {
+      "time": 7.508576393127441,
+      "position": [
+        98.47411346435547,
+        47.82158279418945,
+        -27.78018569946289
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.999385853795971,
+          "throttle_input": 0.10788879138745917,
+          "gear": 1,
+          "wheelspeed": 12.716700908910187,
+          "brake": 0,
+          "throttle": 0.10788879138745917,
+          "parkingbrake": 0,
+          "driveshaft": 46.73425585079568,
+          "reverse": 0,
+          "airspeed": 12.597714300921904,
+          "smoothShiftLogicAV": 126.68647370829285,
+          "abs": 0,
+          "steering": -47.74576777231948,
+          "steering_input": 0.0981650618418029,
+          "rpmspin": 136.47379829080637,
+          "airflowspeed": 12.597714300921904,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.780758456644612,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 50.66869623172252,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.900676403982704,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.077034178508868,
+              "brakeCoreTemperature": 15.1232499583695,
+              "brakeThermalEfficiency": 0.9119482215078603
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.007392420843333,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4966.387278299766,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.22134971618652,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.23766938908782428,
+          "engine_throttle": 0.10788879138745917,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96929268979855,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.02792679627736,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4967.836760026687,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.97732896894131
+        }
+      }
+    },
+    {
+      "time": 7.949723720550537,
+      "position": [
+        98.41847229003906,
+        47.19590759277344,
+        -27.780147552490234
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.999383237319237,
+          "throttle_input": 0.1067503214141444,
+          "gear": 1,
+          "wheelspeed": 12.716347676127864,
+          "brake": 0,
+          "throttle": 0.1067503214141444,
+          "parkingbrake": 0,
+          "driveshaft": 49.366465805630455,
+          "reverse": 0,
+          "airspeed": 12.59178666748313,
+          "smoothShiftLogicAV": 126.67285753245096,
+          "abs": 0,
+          "steering": -50.064181539319165,
+          "steering_input": 0.10310028994976814,
+          "rpmspin": 24.79316590604151,
+          "airflowspeed": 12.59178666748313,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78064390520827,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 51.304531286642714,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.88937342437673,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.076296995368354,
+              "brakeCoreTemperature": 15.122508867579183,
+              "brakeThermalEfficiency": 0.9119470386775088
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.007276383331062,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4964.575890800836,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.216590881347656,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.23606632805209785,
+          "engine_throttle": 0.1067503214141444,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96916186596185,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.057602503499,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4966.387278299766,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.9772091354784
+        }
+      }
+    },
+    {
+      "time": 8.074583530426025,
+      "position": [
+        98.11817169189453,
+        44.70721435546875,
+        -27.77958106994629
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993729905307048,
+          "throttle_input": 0.10417511588244298,
+          "gear": 1,
+          "wheelspeed": 12.580507661301523,
+          "brake": 0,
+          "throttle": 0.10417511588244298,
+          "parkingbrake": 0,
+          "driveshaft": 57.77385304454813,
+          "reverse": 0,
+          "airspeed": 12.561394892792594,
+          "smoothShiftLogicAV": 126.60145302986915,
+          "abs": 0,
+          "steering": -60.222145991283874,
+          "steering_input": 0.12363367796457263,
+          "rpmspin": 296.6947633788427,
+          "airflowspeed": 12.561394892792594,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.78020944010651,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 53.83642095557645,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.758869102617059,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.073355242412456,
+              "brakeCoreTemperature": 15.119546272741621,
+              "brakeThermalEfficiency": 0.9119423184185906
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.00683015202413,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4950.641174119588,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.804442405700684,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.22701791813982605,
+          "engine_throttle": 0.10417511588244298,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.968649526535245,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.17556726020783,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4953.826491705765,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.97851349816244
+        }
+      }
+    },
+    {
+      "time": 8.210584163665771,
+      "position": [
+        97.67868041992188,
+        42.249752044677734,
+        -27.779109954833984
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.999362808750262,
+          "throttle_input": 0.1065721508583585,
+          "gear": 1,
+          "wheelspeed": 12.585754833167298,
+          "brake": 0,
+          "throttle": 0.1065721508583585,
+          "parkingbrake": 0,
+          "driveshaft": 62.62563062255017,
+          "reverse": 0,
+          "airspeed": 12.513073294132768,
+          "smoothShiftLogicAV": 126.31344864839205,
+          "abs": 0,
+          "steering": -70.86236501864688,
+          "steering_input": 0.14419417194983644,
+          "rpmspin": 206.3737888139185,
+          "airflowspeed": 12.513073294132768,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.779749934128564,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 56.35636702477132,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.741214955610289,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.070424186846793,
+              "brakeCoreTemperature": 15.116588053863508,
+              "brakeThermalEfficiency": 0.911937615107342
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.006411243697977,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4941.695227575621,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.822580337524414,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2347553937724091,
+          "engine_throttle": 0.1065721508583585,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96814043751309,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.29236715415611,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4945.823878044733,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.98246403232697
+        }
+      }
+    },
+    {
+      "time": 8.693551778793335,
+      "position": [
+        97.40031433105469,
+        41.036598205566406,
+        -27.778724670410156
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993576703543724,
+          "throttle_input": 0.1058004037179315,
+          "gear": 1,
+          "wheelspeed": 12.579746896337248,
+          "brake": 0,
+          "throttle": 0.1058004037179315,
+          "parkingbrake": 0,
+          "driveshaft": 61.392141225859625,
+          "reverse": 0,
+          "airspeed": 12.495329417400246,
+          "smoothShiftLogicAV": 126.094837167922,
+          "abs": 0,
+          "steering": -76.10292652578478,
+          "steering_input": 0.15381455699621718,
+          "rpmspin": 340.302352907904,
+          "airflowspeed": 12.495329417400246,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.779474909624508,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 57.614708045676316,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.71667775252141,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.068961865128875,
+              "brakeCoreTemperature": 15.115110583143608,
+              "brakeThermalEfficiency": 0.9119352685152997
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.006211526480712,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4932.957996744481,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.798983573913574,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.23246590527089656,
+          "engine_throttle": 0.1058004037179315,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96788351771862,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.35032786244182,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4936.875907101907,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.98579950326098
+        }
+      }
+    },
+    {
+      "time": 8.808563947677612,
+      "position": [
+        96.71632385253906,
+        38.65191650390625,
+        -27.77815818786621
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993474140088574,
+          "throttle_input": 0.11094432990767933,
+          "gear": 1,
+          "wheelspeed": 12.654029470396148,
+          "brake": 0,
+          "throttle": 0.11094432990767933,
+          "parkingbrake": 0,
+          "driveshaft": 57.21509526646328,
+          "reverse": 0,
+          "airspeed": 12.445167286727981,
+          "smoothShiftLogicAV": 125.58266402283549,
+          "abs": 0,
+          "steering": -84.52960097634697,
+          "steering_input": 0.17046978617395053,
+          "rpmspin": 246.27005261442696,
+          "airflowspeed": 12.445167286727981,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.778904359139425,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 60.1394701874727,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.802328057615808,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.066042735991179,
+              "brakeCoreTemperature": 15.112159310605257,
+              "brakeThermalEfficiency": 0.9119305840187222
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.005830541013626,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4924.0082436355615,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 39.0346097946167,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.24135249798365252,
+          "engine_throttle": 0.11094432990767933,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96737070044287,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.46533124828211,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4926.774501390024,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 81.99441456349014
+        }
+      }
+    },
+    {
+      "time": 8.910564422607422,
+      "position": [
+        96.0847396850586,
+        36.908111572265625,
+        -27.777524948120117
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993395544824324,
+          "throttle_input": 0.11217471952271944,
+          "gear": 1,
+          "wheelspeed": 12.562745281651155,
+          "brake": 0,
+          "throttle": 0.11217471952271944,
+          "parkingbrake": 0,
+          "driveshaft": 56.530714975513185,
+          "reverse": 0,
+          "airspeed": 12.410115431993692,
+          "smoothShiftLogicAV": 125.55561572772709,
+          "abs": 0,
+          "steering": -92.19118134497106,
+          "steering_input": 0.18597608457428919,
+          "rpmspin": 264.4520497939546,
+          "airflowspeed": 12.410115431993692,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77843662038036,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 62.03130280458992,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.738574247358244,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.063857865795182,
+              "brakeCoreTemperature": 15.109948994973193,
+              "brakeThermalEfficiency": 0.9119270776895976
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.005560214010954,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4915.2141729272225,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.749393463134766,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.24359459014670493,
+          "engine_throttle": 0.11217471952271944,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96697772412162,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.55088277295619,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4918.631185014022,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.00326788146216
+        }
+      }
+    },
+    {
+      "time": 9.03956413269043,
+      "position": [
+        95.07320404052734,
+        34.661407470703125,
+        -27.77643394470215
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993288974847805,
+          "throttle_input": 0.11692326154700432,
+          "gear": 1,
+          "wheelspeed": 12.515892993135775,
+          "brake": 0,
+          "throttle": 0.11692326154700432,
+          "parkingbrake": 0,
+          "driveshaft": 50.71448107375995,
+          "reverse": 0,
+          "airspeed": 12.35871085662821,
+          "smoothShiftLogicAV": 125.45340486075975,
+          "abs": 0,
+          "steering": -104.34460249092577,
+          "steering_input": 0.21029031005848178,
+          "rpmspin": 166.9627941391209,
+          "airflowspeed": 12.35871085662821,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.777631202940217,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 64.53708434812796,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.673661749803,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.060950058106359,
+              "brakeCoreTemperature": 15.10700607312753,
+              "brakeThermalEfficiency": 0.9119224109872557
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.005219126460906,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4908.296030175335,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.605356216430664,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2552385914854169,
+          "engine_throttle": 0.11692326154700432,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96644487423902,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.66401677150981,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4911.102557588662,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.0179100191759
+        }
+      }
+    },
+    {
+      "time": 9.53664255142212,
+      "position": [
+        94.4911880493164,
+        33.57932662963867,
+        -27.775808334350586
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993234667997173,
+          "throttle_input": 0.11928909652205094,
+          "gear": 1,
+          "wheelspeed": 12.515146507931947,
+          "brake": 0,
+          "throttle": 0.11928909652205094,
+          "parkingbrake": 0,
+          "driveshaft": 46.58593896432751,
+          "reverse": 0,
+          "airspeed": 12.334431286743031,
+          "smoothShiftLogicAV": 125.2444875079782,
+          "abs": 0,
+          "steering": -110.34449362668113,
+          "steering_input": 0.22218925843451298,
+          "rpmspin": 297.57866439305724,
+          "airflowspeed": 12.334431286743031,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.777131143954005,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 65.7890903150627,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.674634164567012,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.059498311584942,
+              "brakeCoreTemperature": 15.10553637840154,
+              "brakeThermalEfficiency": 0.9119200810185182
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.005056509784747,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4903.381045898094,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.60258769989014,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2584277828238569,
+          "engine_throttle": 0.11928909652205094,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.966173339985865,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.72022378776664,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4904.021228688473,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.02646839570615
+        }
+      }
+    },
+    {
+      "time": 9.67887806892395,
+      "position": [
+        93.16944885253906,
+        31.517406463623047,
+        -27.774658203125
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993124279485941,
+          "throttle_input": 0.12367896410081596,
+          "gear": 1,
+          "wheelspeed": 12.530968562432768,
+          "brake": 0,
+          "throttle": 0.12367896410081596,
+          "parkingbrake": 0,
+          "driveshaft": 35.86004808117096,
+          "reverse": 0,
+          "airspeed": 12.288350938350728,
+          "smoothShiftLogicAV": 124.96801495275984,
+          "abs": 0,
+          "steering": -122.67851430461366,
+          "steering_input": 0.2463094080251645,
+          "rpmspin": 197.87634519281607,
+          "airflowspeed": 12.288350938350728,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.776053373716884,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 68.29260286980396,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.679089422365266,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.056598847039359,
+              "brakeCoreTemperature": 15.102600704412241,
+              "brakeThermalEfficiency": 0.9119154273874175
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.004746284939996,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4898.41647575224,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.64822769165039,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.26721810346929215,
+          "engine_throttle": 0.12367896410081596,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96562139742971,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.83189771536296,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4899.459797177393,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.04532646743782
+        }
+      }
+    },
+    {
+      "time": 9.7960946559906,
+      "position": [
+        91.63480377197266,
+        29.621044158935547,
+        -27.773441314697266
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9993010991159438,
+          "throttle_input": 0.12765088982952974,
+          "gear": 1,
+          "wheelspeed": 12.464164891913779,
+          "brake": 0,
+          "throttle": 0.12765088982952974,
+          "parkingbrake": 0,
+          "driveshaft": 26.139279655023916,
+          "reverse": 0,
+          "airspeed": 12.240972806738593,
+          "smoothShiftLogicAV": 124.7560910171775,
+          "abs": 0,
+          "steering": -135.2648489100808,
+          "steering_input": 0.2720132025763895,
+          "rpmspin": 97.18756674747613,
+          "airflowspeed": 12.240972806738593,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77493076058049,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 70.79388357167143,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.610564952002028,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.053704571955167,
+              "brakeCoreTemperature": 15.099670023709438,
+              "brakeThermalEfficiency": 0.9119107818738743
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.004455078470691,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4892.804371051541,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.44797706604004,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2776735660794516,
+          "engine_throttle": 0.12765088982952974,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.965054955797186,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.94271692501339,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4895.731051942183,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.06681719563427
+        }
+      }
+    },
+    {
+      "time": 10.257736444473267,
+      "position": [
+        90.78888702392578,
+        28.74662208557129,
+        -27.77289581298828
+      ],
+      "sensors": {
+        "_data": {
+          "fuel": 0.9992953494646273,
+          "throttle_input": 0.13428503332547653,
+          "gear": 1,
+          "wheelspeed": 12.475805851626927,
+          "brake": 0,
+          "throttle": 0.13428503332547653,
+          "parkingbrake": 0,
+          "driveshaft": 20.997055222178947,
+          "reverse": 0,
+          "airspeed": 12.213771432067094,
+          "smoothShiftLogicAV": 124.88747719585194,
+          "abs": 0,
+          "steering": -141.99580013816157,
+          "steering_input": 0.2879467593481678,
+          "rpmspin": 226.3837339021543,
+          "airflowspeed": 12.213771432067094,
+          "lights": 0,
+          "horn": 0,
+          "hasABS": 1,
+          "altitude": -27.77434153577054,
+          "dseColor": "238BE6",
+          "lowfuel": false,
+          "tcs": 0,
+          "isYCBrakeActive": false,
+          "lightbar": 0,
+          "brake_input": 0,
+          "running": true,
+          "odometer": 72.04167103964843,
+          "parkingbrake_input": 0,
+          "parking": 0,
+          "hazard": 0,
+          "lowpressure": 0,
+          "oil": 0,
+          "lowhighbeam": 0,
+          "lowbeam": 0,
+          "highbeam": 0,
+          "brakelight_signal_R": 0,
+          "brakelight_signal_L": 0,
+          "lowhighbeam_signal_R": 0,
+          "lowhighbeam_signal_L": 0,
+          "turnsignal": 0,
+          "clutch": 0,
+          "engineRunning": 1,
+          "ignition": true,
+          "gearboxMode": "arcade",
+          "freezeState": false,
+          "virtualAirspeed": 12.63926458091054,
+          "wheelThermals": {
+            "RR": {
+              "brakeSurfaceTemperature": 15.0522593250952,
+              "brakeCoreTemperature": 15.098206571411449,
+              "brakeThermalEfficiency": 0.9119084620726694
+            },
+            "FR": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "RL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 15.004316222412545,
+              "brakeThermalEfficiency": 0.9118245341329301
+            },
+            "FL": {
+              "brakeSurfaceTemperature": 14.999993896484398,
+              "brakeCoreTemperature": 14.999993896484398,
+              "brakeThermalEfficiency": 0.9118245341329301
+            }
+          },
+          "rpm": 4892.154046973775,
+          "isTCBrakeActive": false,
+          "esc": 0,
+          "clutch_input": 0,
+          "abs_active": 0,
+          "avg_wheel_av": 38.48142433166504,
+          "brake_lights": 0,
+          "check_engine": false,
+          "clutch_ratio": 1,
+          "engine_load": 0.2831820284173779,
+          "engine_throttle": 0.13428503332547653,
+          "esc_active": false,
+          "exhaust_flow": 1,
+          "fog_lights": 0,
+          "fuel_volume": 49.96476747323136,
+          "fuel_capacity": 50,
+          "gear_a": 0,
+          "gear_index": 1,
+          "gear_m": 1,
+          "hazard_signal": false,
+          "is_shifting": false,
+          "headlights": 0,
+          "oil_temperature": 83.99780055293716,
+          "radiator_fan_spin": 0,
+          "rpm_tacho": 4891.118826250205,
+          "signal_l": 0,
+          "left_signal": false,
+          "signal_r": 0,
+          "right_signal": false,
+          "tcs_active": false,
+          "water_temperature": 82.07844832500932
+        }
+      }
+    }
+  ]
+}
